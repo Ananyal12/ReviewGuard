@@ -2,6 +2,10 @@
 
 An NLP-based machine learning application that classifies product/service reviews as **likely fake** or **likely genuine**.
 
+## 🚀 Live Demo
+
+[🔗 Try ReviewGuard Live](https://reviewguard-adj22rp.streamlit.app/)
+
 ## Features
 
 - TF-IDF text representation with up to 5,000 features
